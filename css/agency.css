@@ -882,3 +882,30 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #3f5c1d;
 }
+
+
+
+/*   *     *   *
+   ",  **   * * *h *a *z *y
+    "\",  *  *
+     "=\=", * *
+       "=\=",
+        "=\=",
+        "-=\=",
+       "--\--",   
+       "-\-", 
+         \\
+                
+     e d i t e d  s t y l e s  
+*/
+
+@media (max-width: 975px)
+  and (min-width: 558px){ 
+  
+ .team-member img {
+
+    width: 80%;
+    height: 80%;
+  }
+}
+
