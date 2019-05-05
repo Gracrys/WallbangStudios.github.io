@@ -9,6 +9,13 @@ img {
 	width: 100%;
 }
 
+.uk-grid.images{
+  position: initial;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #navigation h1.nav-header {
 	padding: 0 15px;
 	margin-bottom: 0;
